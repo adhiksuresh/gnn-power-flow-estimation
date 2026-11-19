@@ -1,0 +1,4 @@
+,parameters,epochs
+MLP (topology-blind),135228,199
+MLP + branch status,145724,300
+GCN,29762,300

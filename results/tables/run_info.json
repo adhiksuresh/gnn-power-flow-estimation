@@ -1,0 +1,16 @@
+{
+  "n_train": 3474,
+  "n_val": 800,
+  "n_test": 1726,
+  "unseen_outage_lines": [
+    0,
+    1,
+    2,
+    7,
+    9,
+    14,
+    17,
+    22
+  ],
+  "failed_power_flows_skipped": 14
+}
